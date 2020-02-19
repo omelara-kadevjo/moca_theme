@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.741" height="65.741" viewBox="0 0 65.741 65.741">
+  <defs>
+    <filter id="Oval_Copy_6" x="0" y="0" width="65.741" height="65.741" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.137"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_7" data-name="7" transform="translate(-652.262 -2664.484)">
+    <g transform="matrix(1, 0, 0, 1, 652.26, 2664.48)" filter="url(#Oval_Copy_6)">
+      <circle id="Oval_Copy_6-2" data-name="Oval Copy 6" cx="26.87" cy="26.87" r="26.87" transform="translate(4 4)" fill="#fff"/>
+    </g>
+    <g id="np_message_849833_000000" transform="translate(669.639 2682.677)">
+      <path id="Shape" d="M7.934,21.227A1.371,1.371,0,0,1,6.62,19.459a6.24,6.24,0,0,0,.236-2.292A8.681,8.681,0,0,1,8.678,0h5.051a8.687,8.687,0,1,1,0,17.374h-.9a10.453,10.453,0,0,1-4.276,3.705A1.378,1.378,0,0,1,7.934,21.227ZM8.678,1.486A7.209,7.209,0,0,0,7.627,15.8a.733.733,0,0,1,.622.618,7.84,7.84,0,0,1-.16,3.239,8.679,8.679,0,0,0,3.67-3.377.739.739,0,0,1,.638-.368h1.341a7.215,7.215,0,1,0,0-14.429H8.678Z" transform="translate(0 0)" fill="#143d6c" stroke="#143d6c" stroke-miterlimit="10" stroke-width="1.25"/>
+      <path id="Path" d="M16.248,6.07a6.555,6.555,0,0,1-5.006,6.339,4.347,4.347,0,0,0,.177,1.449,1.2,1.2,0,0,1-1.69,1.414,7.982,7.982,0,0,1-3.143-2.686H6.045A6.517,6.517,0,0,1,.061,8.667a.737.737,0,1,1,1.352-.589,5.048,5.048,0,0,0,4.632,3.039h.966a.736.736,0,0,1,.651.385,5.76,5.76,0,0,0,2.2,2.158,6,6,0,0,1-.021-1.988.736.736,0,0,1,.621-.618,5.047,5.047,0,0,0,1.125-9.689A.736.736,0,0,1,12.129.018,6.477,6.477,0,0,1,16.248,6.07Z" transform="translate(11.771 13.027)" fill="#71cfeb" stroke="#71cfeb" stroke-miterlimit="10" stroke-width="1.25"/>
+      <path id="Path-2" data-name="Path" d="M.1,2.524a.737.737,0,0,1,1-.271A6.287,6.287,0,0,1,2.79,3.666,17.476,17.476,0,0,1,6.552.132.737.737,0,1,1,7.4,1.342,16.015,16.015,0,0,0,3.378,5.348a.739.739,0,0,1-.6.315H2.742a.74.74,0,0,1-.607-.368A4.8,4.8,0,0,0,.368,3.528a.737.737,0,0,1-.27-1Z" transform="translate(7.352 5.846)" fill="#71cfeb" stroke="#71cfeb" stroke-miterlimit="10" stroke-width="1.25"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.417" height="30.417" viewBox="0 0 30.417 30.417">
+  <g id="icon_status" data-name="icon / status" transform="translate(-10.542 18.458)">
+    <g id="icon_rate" data-name="icon / rate" transform="translate(9 -20)">
+      <g id="opening-times" transform="translate(2.792 2.792)">
+        <path id="Path" d="M0,0V2.792H2.792" transform="translate(20.049 19.034)" fill="none" stroke="#71cfeb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <circle id="Oval" cx="6.345" cy="6.345" r="6.345" stroke-width="2.5" transform="translate(13.958 15.227)" stroke="#71cfeb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+        <path id="Path-2" data-name="Path" d="M10.152,22.841H0V0H27.917V8.883" transform="translate(0 3.807)" fill="none" stroke="#71cfeb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Path-3" data-name="Path" d="M1.227,0V3.807" transform="translate(6.386)" fill="none" stroke="#71cfeb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Path-4" data-name="Path" d="M1.227,0V3.807" transform="translate(19.076)" fill="none" stroke="#71cfeb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Path-5" data-name="Path" d="M0,1.227H27.917" transform="translate(0 7.655)" fill="none" stroke="#71cfeb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
