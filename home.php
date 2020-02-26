@@ -178,8 +178,32 @@ get_header();
     </div>
 </section>
 <section class="w-full py-32 sky">
-    <div class="w-full flex flex-wrap">
+    <div class="container mx-auto flex flex-wrap">
         <div class="w-full md:w-1/2">
+            <form action="" class="px-10 w-full flex flex-wrap">
+                <div class="w-full md:w-1/2 flex flex-wrap pr-4">
+                    <input class="bg-transparent border-b-2 border-solid border-teal-200 focus:border-blue-300 focus:border-teal-100 museobold outline-none w-full block px-4 py-2 text-dark font-medium" type="text">
+                </div>
+                <div class="w-full mt-8 md:w-1/2 flex flex-wrap pl-4">
+                    <input class="bg-transparent border-b-2 border-solid border-teal-200 focus:border-blue-300 focus:border-teal-100 museobold outline-none w-full block px-4 py-2 text-dark font-medium" type="text">
+                </div>
+                <div class="w-full mt-8 flex flex-wrap">
+                    <input class="bg-transparent border-b-2 border-solid border-teal-200 focus:border-blue-300 focus:border-teal-100 museobold outline-none w-full block px-4 py-2 text-dark font-medium" type="text">
+                </div>
+                <div class="w-full mt-8 md:w-1/2 flex flex-wrap pr-4">
+                    <input class="bg-transparent border-b-2 border-solid border-teal-200 focus:border-blue-300 focus:border-teal-100 museobold outline-none w-full block px-4 py-2 text-dark font-medium" type="text">
+                </div>
+                <div class="w-full mt-8 md:w-1/2 flex flex-wrap pl-4">
+                    <input class="bg-transparent border-b-2 border-solid border-teal-200 focus:border-blue-300 focus:border-teal-100 museobold outline-none w-full block px-4 py-2 text-dark font-medium" type="text">
+                </div>
+                <div class="w-full mt-8 md:w-1/2 flex flex-wrap pr-4">
+                    <input class="bg-transparent border-b-2 border-solid border-teal-200 focus:border-blue-300 focus:border-teal-100 museobold outline-none w-full block px-4 py-2 text-dark font-medium" type="text">
+                </div>
+                <div class="w-full mt-8 md:w-1/2 flex flex-wrap pl-4">
+                    <input class="bg-transparent border-b-2 border-solid border-teal-200 focus:border-blue-300 focus:border-teal-100 museobold outline-none w-full block px-4 py-2 text-dark font-medium" type="text">
+                </div>
+            
+            </form>
 
         </div>
         <div class="w-full md:w-1/2">
